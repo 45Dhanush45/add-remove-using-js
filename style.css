@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color:burlywood;
+    
+
+}
+.main{
+    border: 2px solid grey;
+    border-radius: 10px;
+    position: absolute;
+    top:100px;
+    left: 530px;
+    padding: 40px;
+
+}
+.head{
+    text-align: center;
+    margin-top: 30px;
+}
+
+table,th,tr,td{
+    border: 2px solid gray;
+    border-collapse:collapse ;
+    padding: 10px;
+}
+
+.code{
+    position: absolute;
+    top:450px;
+    left: 530px;
+    
+
+}
+
+.button{
+    padding: 5px 20px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: plum;
+}
+
+.buttons{
+    padding: 5px 20px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: plum;
+}
